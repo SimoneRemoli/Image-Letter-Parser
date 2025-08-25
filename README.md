@@ -48,5 +48,13 @@ brew install tesseract
 </dependency>
 ```
 
+### 4. Add VM options to Tomcat
+
+IntelliJ → Run/Debug Configurations → Configuration SmartTomcat → VM options
+
+```bash
+-Djna.library.path=/usr/local/lib -Dtessdata.dir=/usr/local/share/tessdata
+```
+
 
 
