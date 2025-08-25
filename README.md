@@ -78,3 +78,7 @@ Fra -> Exemple : A — [15,104,44,48] signifie « la lettre A se trouve dans un 
 Kor -> 예: A — [15,104,44,48] 는 문자 A가 왼쪽에서 15px, 위쪽에서 104px 떨어진 지점에서 시작하는 바운딩 박스 안에 있으며, 너비 44px, 높이 48px임을 의미합니다.
 
 Chin -> 示例：A — [15,104,44,48] 表示“字母 A 位于一个边界框内，该边界框从左侧 15 像素、顶部 104 像素处开始，宽 44 像素，高 48 像素。”.
+
+
+
+Tess4J provides Java APIs (via JNA) to invoke Tesseract without writing native code.
