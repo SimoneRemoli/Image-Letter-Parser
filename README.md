@@ -19,7 +19,7 @@ Image Letter Parser is a lightweight OCR-oriented tool that takes an input image
 ### Built With
 
 The technologies listed below constitute the foundational stack employed in the design and implementation of this system:
-<p align="center"> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"> <img src="https://www.heise.de/download/media/tesseract-ocr/tesseract-ocr_1-1-30.jpg" alt="TESSERACT" title="TESSERACT" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; </p>
+<p align="center"> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://github.com/tesseract-ocr/tesseract" target="_blank"> <img src="https://www.heise.de/download/media/tesseract-ocr/tesseract-ocr_1-1-30.jpg" alt="TESSERACT" title="TESSERACT" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; </p>
 
 
 ## 🚦 Overview
