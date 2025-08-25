@@ -77,6 +77,14 @@ public class ImageUploadServlet extends HttpServlet {
         req.setAttribute("uploadedFilePath", target.toAbsolutePath().toString());
         req.setAttribute("letters", letters);
 
+        if (letters != null) {
+            for (int i = 0; i < letters.size(); i++) {
+                SimpleOCRService.DetectedChar d = letters.get(i);
+                System.out.printf("letters[%d]: %s — [%d,%d,%d,%d]%n",
+                        i, d.ch, d.box.x, d.box.y, d.box.width, d.box.height);
+            }
+        }
+
         // Log console
         getServletContext().log("OCR letters: " + (letters == null ? 0 : letters.size())
                 + " caratteri per " + safeName);
