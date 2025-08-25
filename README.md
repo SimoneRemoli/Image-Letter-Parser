@@ -38,4 +38,15 @@ git clone https://github.com/SimoneRemoli/Image-Letter-Parser.git
 brew install tesseract
 ```
 
+### 3. Add Tess4J in your POM
+
+```bash
+<dependency>
+      <groupId>net.sourceforge.tess4j</groupId>
+      <artifactId>tess4j</artifactId>
+      <version>5.10.0</version>
+</dependency>
+```
+
+
 
