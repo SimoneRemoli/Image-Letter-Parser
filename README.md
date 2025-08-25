@@ -82,3 +82,5 @@ Chin -> 示例：A — [15,104,44,48] 表示“字母 A 位于一个边界框内
 
 
 Tess4J provides Java APIs (via JNA) to invoke Tesseract without writing native code.
+**OCR (Optical Character Recognition) is the technology that “reads” text in an image or PDF and converts it into digital text.**
+
