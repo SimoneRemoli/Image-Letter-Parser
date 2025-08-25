@@ -20,3 +20,8 @@ Image Letter Parser is a lightweight OCR-oriented tool that takes an input image
 
 This project leverages the power of [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) to extract text from images, opening up endless opportunities for document automation, data extraction, and more. With a flexible and modular approach, you can easily customize and expand the parsing pipeline to suit your needs.
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/SimoneRemoli/Image-Letter-Parser.git
+```
