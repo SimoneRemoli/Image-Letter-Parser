@@ -62,4 +62,9 @@ ls /opt/homebrew/share/tessdata (o /usr/local/share/tessdata)
 show inside eng.traineddata.
 
 
+**Let’s turn images into actionable data!**
+
+<img width="825" height="314" alt="Screenshot 2025-08-25 alle 11 22 03" src="https://github.com/user-attachments/assets/2bdfdc18-3c1e-47b6-a3f2-f687ada0fe07" />
+
+
 
