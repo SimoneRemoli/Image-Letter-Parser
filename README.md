@@ -31,3 +31,11 @@ This project leverages the power of [Tesseract OCR](https://github.com/tesseract
 ```bash
 git clone https://github.com/SimoneRemoli/Image-Letter-Parser.git
 ```
+
+### 2. Install Tesseract
+
+```bash
+brew install tesseract
+```
+
+
