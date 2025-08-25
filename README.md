@@ -72,6 +72,9 @@ show inside eng.traineddata.
 Example: **A — \[15,104,44,48]** means “the letter A is inside a bounding box that starts **15 px** from the left and **104 px** from the top, **44 px** wide and **48 px** tall.”
 
 Ita - > Esempio: A — [15,104,44,48] significa “la lettera A è dentro un riquadro che inizia a 15 px da sinistra e 104 px dall’alto, largo 44 px e alto 48 px”.
+
 Fra -> Exemple : A — [15,104,44,48] signifie « la lettre A se trouve dans un cadre (bounding box) qui commence à 15 px depuis la gauche et 104 px depuis le haut, d’une largeur de 44 px et d’une hauteur de 48 px. »
+
 Kor -> 예: A — [15,104,44,48] 는 문자 A가 왼쪽에서 15px, 위쪽에서 104px 떨어진 지점에서 시작하는 바운딩 박스 안에 있으며, 너비 44px, 높이 48px임을 의미합니다.
+
 Chin -> 示例：A — [15,104,44,48] 表示“字母 A 位于一个边界框内，该边界框从左侧 15 像素、顶部 104 像素处开始，宽 44 像素，高 48 像素。”.
