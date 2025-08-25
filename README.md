@@ -55,6 +55,11 @@ IntelliJ → Run/Debug Configurations → Configuration SmartTomcat → VM optio
 ```bash
 -Djna.library.path=/usr/local/lib -Dtessdata.dir=/usr/local/share/tessdata
 ```
+Note: Check 
+```bash
+ls /opt/homebrew/share/tessdata (o /usr/local/share/tessdata)
+```
+show inside eng.traineddata.
 
 
 
