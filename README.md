@@ -19,7 +19,7 @@ Image Letter Parser is a lightweight OCR-oriented tool that takes an input image
 ### Built With
 
 The technologies listed below constitute the foundational stack employed in the design and implementation of this system:
-<p align="center"> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"> <img src="https://static.thenounproject.com/png/1883802-200.png" alt="JDBC" title="JDBC" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://dbeaver.io/" target="_blank"> <img src="https://dbeaver.com/img/dbeaver-head.png" alt="DBeaver" title="DBeaver" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="60" style="border-radius: 50%; background: #000; padding: 5px;"/> </a> </p>
+<p align="center"> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"> <img src="https://www.heise.de/download/media/tesseract-ocr/tesseract-ocr_1-1-30.jpg" alt="TESSERACT" title="TESSERACT" width="60" style="border-radius: 50%;"/> </a> &nbsp;&nbsp; </p>
 
 
 ## 🚦 Overview
