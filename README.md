@@ -66,5 +66,6 @@ show inside eng.traineddata.
 
 <img width="825" height="314" alt="Screenshot 2025-08-25 alle 11 22 03" src="https://github.com/user-attachments/assets/2bdfdc18-3c1e-47b6-a3f2-f687ada0fe07" />
 
+<img width="647" height="548" alt="Screenshot 2025-08-25 alle 11 23 57" src="https://github.com/user-attachments/assets/f9410b49-0d3e-4ad9-81e5-ab3a0dae662f" />
 
 
