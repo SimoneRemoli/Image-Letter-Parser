@@ -69,3 +69,7 @@ show inside eng.traineddata.
 <img width="647" height="548" alt="Screenshot 2025-08-25 alle 11 23 57" src="https://github.com/user-attachments/assets/f9410b49-0d3e-4ad9-81e5-ab3a0dae662f" />
 
 
+Example: **A — \[15,104,44,48]** means “the letter A is inside a bounding box that starts **15 px** from the left and **104 px** from the top, **44 px** wide and **48 px** tall.”
+
+Ita - > Esempio: A — [15,104,44,48] significa “la lettera A è dentro un riquadro che inizia a 15 px da sinistra e 104 px dall’alto, largo 44 px e alto 48 px”.
+
