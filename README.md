@@ -5,7 +5,7 @@ Image Letter Parser is a lightweight OCR-oriented tool that takes an input image
 <p align="center"> </p>
 
 
-<p align="center">></p>
+<p align="center"></p>
 <h3 align="center">Ocr/Tesseract (Faculty of Engineering) </h3>
 
 <p align="center">
